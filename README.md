@@ -8,4 +8,4 @@ Linear regression analysis is the most widely used of all statistical techniques
 There are two ways for computing Linear Regression:
 1-Gradient Descent.
 2-Normal Equation.
-You will find these ways in ML model.
+You will find these ways in ML model. 
